@@ -14,3 +14,4 @@ work done:
 cleanup, EDA
 feature engineering, data manipulation
 modeling supervised learning, accuracy
+predicting the stopppage time of cars in the traffic for all 4 major cities
